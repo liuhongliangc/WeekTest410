@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\perm_group_device_alarms_normal.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\perm_group_device_alarms_normal.png"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\perm_group_camera_selected.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\perm_group_camera_selected.png"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\perm_group_location_selected.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\perm_group_location_selected.png"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\custom_tab_indicator_unselected_pressed.9.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\custom_tab_indicator_unselected_pressed.9.png"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\custom_tab_indicator_focused.9.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\custom_tab_indicator_focused.9.png"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\custom_tab_indicator_selected_pressed.9.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\custom_tab_indicator_selected_pressed.9.png"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\custom_tab_indicator_unselected.9.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\custom_tab_indicator_unselected.9.png"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\perm_group_calendar_selected.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\perm_group_calendar_selected.png"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\perm_group_device_alarms_selected.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\perm_group_device_alarms_selected.png"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\custom_tab_indicator_selected.9.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\custom_tab_indicator_selected.9.png"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\custom_tab_indicator.xml",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\custom_tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\icon.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\custom_tab_indicator_selected_focused.9.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\custom_tab_indicator_selected_focused.9.png"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\perm_group_camera_normal.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\perm_group_camera_normal.png"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\custom_tab_indicator_unselected_focused.9.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\custom_tab_indicator_unselected_focused.9.png"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\perm_group_calendar_normal.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\perm_group_calendar_normal.png"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\custom_tab_indicator_divider.9.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\custom_tab_indicator_divider.9.png"
+    },
+    {
+        "merged": "D:\\code\\WeekTest410\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\perm_group_location_normal.png",
+        "source": "D:\\code\\WeekTest410\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\perm_group_location_normal.png"
+    }
+]
